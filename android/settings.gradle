@@ -1,0 +1,3 @@
+rootProject.name = 'ListDemoTest'
+
+include ':app'
